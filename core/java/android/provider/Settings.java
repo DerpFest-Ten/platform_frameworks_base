@@ -4861,6 +4861,12 @@ public final class Settings {
          */
         public static final String SBC_HD_PRIORITY = "sbc_hd_priority";
 
+	/**
+         * Home wake button
+         * @hide
+         */
+        public static final String HOME_WAKE_BUTTON = "home_wake_button";
+
         /**
          * Three Finger Gesture from Oppo
          * @hide
