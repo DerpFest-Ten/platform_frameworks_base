@@ -126,8 +126,6 @@
     <string name="quick_settings_usb_tether_label">USB tethering</string>
 
     <!-- Screen recorder -->
-    <string name="screenrecord_dialog_title">Start recording?</string>
-    <string name="screenrecord_dialog_summary">While recording, Android system can capture any sensitive information that\'s visible on your screen or played on your device. This includes passwords, payment info, photos, messages, and audio.</string>
     <string name="screenrecord_dialog_start">Start</string>
     <string name="screenrecord_dialog_cancel">Cancel</string>
     <string name="screenrecord_audio_title">Audio source</string>

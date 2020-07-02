@@ -118,8 +118,6 @@
     <string name="delete_screenshot_toast">Screenshot deleted</string>
 
     <!-- Screen recorder -->
-    <string name="screenrecord_dialog_title">Die Aufnahme starten?</string>
-    <string name="screenrecord_dialog_summary">Während der Aufnahme kann das Android-System alle vertraulichen Informationen erfassen, die auf Ihrem Bildschirm sichtbar sind oder auf Ihrem Gerät abgespielt werden. Dies umfasst Passwörter, Zahlungsinformationen, Fotos, Nachrichten und Audio.</string>
     <string name="screenrecord_dialog_start">Starten</string>
     <string name="screenrecord_dialog_cancel">Abbrechen</string>
     <string name="screenrecord_audio_title">Audio-Quelle</string>
