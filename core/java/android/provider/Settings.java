@@ -10847,6 +10847,14 @@ public final class Settings {
         public static final String NAVBAR_PULSE_ENABLED = "navbar_pulse_enabled";
 
         /**
+         * Pulse ambient music visualizer
+         * @hide
+         */
+        public static final String AMBIENT_PULSE_ENABLED = "ambient_pulse_enabled";
+        private static final Validator AMBIENT_PULSE_ENABLED_VALIDATOR =
+                BOOLEAN_VALIDATOR;
+
+        /**
          * Pulse lockscreen music visualizer
          * @hide
          */
@@ -11081,7 +11089,8 @@ public final class Settings {
             STATUSBAR_CLOCK_DATE_STYLE,
             STATUSBAR_CLOCK_DATE_FORMAT,
             STATUSBAR_CLOCK_DATE_POSITION,
-            VOLUME_LINK_NOTIFICATION
+            VOLUME_LINK_NOTIFICATION,
+            AMBIENT_PULSE_ENABLED,
         };
 
         /**
@@ -11293,6 +11302,7 @@ public final class Settings {
             VALIDATORS.put(STATUSBAR_CLOCK_DATE_FORMAT, STATUSBAR_CLOCK_DATE_FORMAT_VALIDATOR);
             VALIDATORS.put(STATUSBAR_CLOCK_DATE_POSITION, STATUSBAR_CLOCK_DATE_POSITION_VALIDATOR);
             VALIDATORS.put(VOLUME_LINK_NOTIFICATION, VOLUME_LINK_NOTIFICATION_VALIDATOR);
+            VALIDATORS.put(AMBIENT_PULSE_ENABLED, AMBIENT_PULSE_ENABLED_VALIDATOR);
         }
 
         /**
