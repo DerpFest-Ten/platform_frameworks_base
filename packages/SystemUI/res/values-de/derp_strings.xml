@@ -123,12 +123,15 @@
     <string name="screenrecord_dialog_start">Starten</string>
     <string name="screenrecord_dialog_cancel">Abbrechen</string>
     <string name="screenrecord_audio_title">Audio-Quelle</string>
+    <string name="screenrecord_audio_summary">Ermöglicht das Auswählen oder Deaktivieren des Audioeingangs.</string>
     <string name="screenrecord_audio_recording_internal">Intern</string>
     <string name="screenrecord_audio_recording_microphone">Mikrofon</string>
     <string name="screenrecord_audio_recording_off">Deaktiviert</string>
     <string name="screenrecord_taps_title">Berührungen auf dem Bildschirm anzeigen</string>
+    <string name="screenrecord_taps_summary">Zeigen Sie während der Aufnahme visuelles Feedback</string>
     <string name="screenrecord_stopdot_title">Stopppunkt anzeigen</string>
     <string name="screenrecord_video_bitrate_title">Video-Bitrate</string>
+    <string name="screenrecord_video_bitrate_summary">Stellen Sie die Video-Bitrate für eine bessere Videoqualität auf Kosten einer größeren Datei ein.</string>
     <!-- Power menu item for taking a screenshot [CHAR LIMIT=20]-->
     <string name="global_action_screenshot_cust">Screenshot</string>
     <string name="global_action_screenrecord">Bildschirmaufnahme</string>
